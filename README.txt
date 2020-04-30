@@ -38,7 +38,7 @@ Through using these notebooks, you will populate the 'notebook_output_files_fold
 ----------------------------------------
 
 The methodologies presented in these notebooks are adapted by the notebook authors, and are 
-approptiately referenced in each notebook. For further information, see Clarke et al. (in prep.).
+approptiately referenced in each notebook. For further information, see Clarke et al. (submitted).
 
 ----------------------------------------
 
@@ -46,7 +46,7 @@ These notebooks contain code developed for PVHA at Aluto volcano in Ethiopia. Th
 intended for explanatory use only. Any use or reproduction of this code should be appropriately referenced.
 Any users are directed to the paper:
 
-Clarke et al. (in prep.). Probabilistic volcanic hazard analysis for pyroclastic density currents at 
+Clarke et al. (Submitted). Probabilistic volcanic hazard analysis for pyroclastic density currents at 
 	Aluto: an Ethiopian pumice cone volcano.
 
 for information surrounding the assumptions and metholodogies employed here.    
