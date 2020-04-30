@@ -1,4 +1,4 @@
-These notebooks and files form supplemetary code for the paper Clarke et al. (in prep).
+These notebooks and files form supplemetary code for the paper Clarke et al. (submitted).
 Written in Python 3 (v.3.7.1), and presented in Jupyter notebooks (v.5.7.4).
 
 The notebooks go step-by-step through the process of calculating the probability of 
