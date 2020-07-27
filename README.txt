@@ -1,4 +1,4 @@
-These notebooks and files form supplemetary code for the paper Clarke et al. (submitted).
+These notebooks and files form supplemetary code for the paper Clarke et al. (2020).
 Written in Python 3 (v.3.7.1), and presented in Jupyter notebooks (v.5.7.4).
 
 The notebooks go step-by-step through the process of calculating the probability of 
@@ -44,9 +44,6 @@ approptiately referenced in each notebook. For further information, see Clarke e
 
 These notebooks contain code developed for PVHA at Aluto volcano in Ethiopia. The notebooks themselves are
 intended for explanatory use only. Any use or reproduction of this code should be appropriately referenced.
-Any users are directed to the paper:
+For information surrounding the assumptions and metholodogies employed here, users are directed to our paper:
 
-Clarke et al. (Submitted). Probabilistic volcanic hazard analysis for pyroclastic density currents at 
-	Aluto: an Ethiopian pumice cone volcano.
-
-for information surrounding the assumptions and metholodogies employed here.    
+Ben Clarke, Pablo Tierz, Eliza Calder, Gezahegn Yirgu (2020). Probabilistic volcanic hazard assessment for pyroclastic density currents from pumice cone 	eruptions at Aluto volcano, Ethiopia. Frontiers in Earth Science. doi: 10.3389/feart.2020.00348 
